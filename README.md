@@ -63,10 +63,10 @@ Always eager to learn new technologies and improve problem-solving skills.
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijthorat&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijthorat&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijthorat&layout=compact&theme=dark" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=kshitijthorat&theme=dark&hide_border=false&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=kshitijthorat&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijthorat&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=kshitijthorat&icon=1&color=2)](https://visitcount.itsvg.in)
